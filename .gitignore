@@ -1,0 +1,30 @@
+# Build
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Configs específicos da máquina
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/DefaultEditor.ini
+Config/DefaultEditorUserSettings.ini
+Config/DefaultEngine.ini
+Config/DefaultGame.ini
+
+# MacOS e Linux
+.DS_Store
+.vscode/
+*.sln
+*.pro.user
+*.xcworkspace/
+*.xcodeproj
+*.dSYM/
+
+# Arquivos grandes (usar Git LFS se necessário)
+*.uasset
+*.umap
+*.mp4
+*.wav
+*.png
+*.jpg
+
