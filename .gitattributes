@@ -1,1 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+Content/Source/maps/T_GDC_StonePath_Tile_D_R.TGA filter=lfs diff=lfs merge=lfs -text
