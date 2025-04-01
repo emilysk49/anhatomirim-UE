@@ -1,17 +1,14 @@
-# Build
+# 🏗️ Build (arquivos que podem ser recriados)
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
 
-# Configs específicos da máquina
+# ⚙️ Configurações específicas da máquina
 Config/DefaultEditorPerProjectUserSettings.ini
-Config/DefaultEditor.ini
 Config/DefaultEditorUserSettings.ini
-Config/DefaultEngine.ini
-Config/DefaultGame.ini
 
-# MacOS e Linux
+# 🖥️ Arquivos do sistema operacional e IDEs
 .DS_Store
 .vscode/
 *.sln
@@ -20,11 +17,17 @@ Config/DefaultGame.ini
 *.xcodeproj
 *.dSYM/
 
-# Arquivos grandes (usar Git LFS se necessário)
-*.uasset
-*.umap
-*.mp4
-*.wav
-*.png
-*.jpg
+# 🚀 Ignorar apenas arquivos temporários da pasta Content
+Content/*.tmp
+Content/*.lock
+Content/*.bak
+Content/*Backup*/
+
+# ✅ **Incluir assets essenciais do Unreal Engine**
+!Content/**/*.uasset
+!Content/**/*.umap
+!Content/**/*.png
+!Content/**/*.jpg
+!Content/**/*.mp4
+!Content/**/*.wav
 
