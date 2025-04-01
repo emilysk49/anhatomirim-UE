@@ -1,0 +1,40 @@
+Performing scene check  for invalid nodes, materials, maps etc. on the : 
+24/05/2017 - 12:51:36
+Invalid material :"Material #25" found on node : "balas_canhao".
+Invalid material :"Material #25" found on node : "balas_canhao001".
+Invalid material :"Material #25" found on node : "balas_canhao002".
+Invalid material :"Material #25" found on node : "balas_canhao003".
+Invalid material :"Material #25" found on node : "balas_canhao004".
+Invalid material :"Material #25" found on node : "balas_canhao005".
+Invalid material :"Material #25" found on node : "balas_canhao006".
+Invalid material :"Material #25" found on node : "balas_canhao007".
+Invalid material :"Material #25" found on node : "balas_canhao008".
+Invalid material :"Material #25" found on node : "balas_canhao009".
+Invalid material :"Material #25" found on node : "balas_canhao010".
+Invalid material :"Material #25" found on node : "balas_canhao011".
+Invalid material :"Material #25" found on node : "balas_canhao012".
+Invalid material :"Material #25" found on node : "balas_canhao013".
+Invalid material :"Material #26" found on node : "Box001".
+Invalid light node : "VRayLight001" found.
+Invalid light node : "VRayLight002" found.
+Invalid light node : "VRayLight003" found.
+Invalid light node : "VRayLight004" found.
+Invalid light node : "VRayLight005" found.
+Invalid light node : "VRayLight006" found.
+Invalid material :"Material #25" found on node : "Canhao".
+Invalid material :"Material #26" found on node : "carreta-lat_dir".
+Invalid material :"Material #25" found on node : "carreta_metal".
+Scene contains : 24 invalid features.
+Object of type "VRayMtl" (missing class) removed.
+Suceeded in converting Missing Material : "Unknown" into Physical Material :"Unknown name".
+Object of type "VRayMtl" (missing class) removed.
+Suceeded in converting Missing Material : "Unknown" into Physical Material :"Unknown name".
+Node : "VRayLight001" deleted from Scene.
+Node : "VRayLight002" deleted from Scene.
+Node : "VRayLight003" deleted from Scene.
+Node : "VRayLight004" deleted from Scene.
+Node : "VRayLight005" deleted from Scene.
+Node : "VRayLight006" deleted from Scene.
+Performing scene check  for invalid nodes, materials, maps etc. on the : 
+24/05/2017 - 12:51:49
+Scene contains : 0 invalid features.
